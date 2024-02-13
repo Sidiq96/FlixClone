@@ -39,7 +39,7 @@ npm install
 ![screenshot of website](./src/assets/images/FlixClone.png)
 
 ## Link to deployed application
-[link to deployed application](https://endless-emporium.netlify.app/)
+[link to deployed application](https://sidiq96.github.io/)
 
 ## Usage
 This application allows users to look for movies and save them on their Account.
